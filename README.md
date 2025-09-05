@@ -14,7 +14,7 @@ Please note that this design has NOT been tested in real life.
 
 # BOM:
 
-1x Adapter - https://github.com/Le-JBA/T6/blob/main/adapters/t6mule.step
+1x Adapter made of copper or aluminum - https://github.com/Le-JBA/T6/blob/main/adapters/t6mule.step
 
 1x 3D printed gasket - https://github.com/Le-JBA/S2-/blob/main/gaskets/s2plus7070cone.step
 
@@ -35,7 +35,7 @@ Pull out the cables to full length. If the cables are to short, you may need to 
 
 You may want to replace the cooling paste, do this now.
 
-Place the adapter in the flashlight so the holes line up, and make sure the cables go all the way to the top.
+Place the adapter in the flashlight so the holes at the bottom line up with the cutouts in the adapter, and make sure the cables go all the way to the top.
 
 Place additional cooling paste on the adapter, and then place the MCPCB on top.
 
@@ -43,7 +43,7 @@ Solder red cable to + and black cable to -.
 
 Place the Convoy 7070 gasket on the MCPCB.
 
-Place the 3D printed on top of the Convoy gasket.
+Place the 3D printed gasket on top of the Convoy gasket.
 
 Screw the bezel back together with the front lens and the gasket.
 
