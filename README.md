@@ -5,6 +5,7 @@
 
 This is an adapter to make the Convoy T6 into a stupid mule.
 
+<img width="2429" height="1621" alt="image" src="https://github.com/user-attachments/assets/4d9fb9fe-8904-4244-9cb3-fbf03c5b59bd" />
 
 
 Please note that this design has NOT been tested in real life.
