@@ -44,6 +44,9 @@ Place the 3D printed gasket on top of the Convoy gasket.
 
 Screw the bezel back together with the front lens and the gasket.
 
+<img width="2429" height="1621" alt="image" src="https://github.com/user-attachments/assets/59d225e1-3898-4b61-b262-937ba4bcdaf3" />
+
+
 <br/>
 <br/>
 <br/>
